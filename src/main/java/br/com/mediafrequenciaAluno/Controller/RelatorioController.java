@@ -35,7 +35,7 @@ public class RelatorioController {
 		StringBuilder builder = new StringBuilder();
 		
 		builder.append("			--------------------------------------------------								\n");
-		builder.append("			|	Should call jasper reports, stopped developing bcause ireport is too old	\n");
+		builder.append("			|	Should call reports, stopped developing bcause ireport is too old	\n");
 		builder.append("			--------------------------------------------------								\n");
 		builder.append("																							\n");
 		builder.append(buildInformacoesAluno(builder, resultadosAlunos));
